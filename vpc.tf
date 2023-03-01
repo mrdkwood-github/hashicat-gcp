@@ -13,3 +13,4 @@ routing_mode = "GLOBAL"
     subnet_region = var.region
   }
 ]
+}
