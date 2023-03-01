@@ -3,7 +3,7 @@ module "vpc" {
     version = "~> 6.0"
 
     project_id   = "var.project"
-    network_name = "example-vpc"
+    network_name = "dantest-vpc"
     routing_mode = "GLOBAL"
 
 subnets = [
